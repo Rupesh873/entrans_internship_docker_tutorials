@@ -1,0 +1,16 @@
+what is a container?
+->a way to package application with all the necessary dependencies and configuration
+->portable artifact, easily shared and move around
+->makes development and deployment more efficient
+
+where do containers live?
+->containers live in a container repository
+->private repositories
+->public repository for docker(docker hub- can get any public container you want)
+
+before containers(application development)
+->installation process different on each os environment
+->many steps where something could go wrong
+
+after containers(application development)
+->with containers you actually do not have to install any of the services directly on your operating system
