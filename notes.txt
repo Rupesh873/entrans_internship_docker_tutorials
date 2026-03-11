@@ -13,4 +13,9 @@ before containers(application development)
 ->many steps where something could go wrong
 
 after containers(application development)
-->with containers you actually do not have to install any of the services directly on your operating system
+->with containers you actually do not have to install any of the services directly on your operating system because the container is its  own isolated operating system layer with linux based image
+->packed with all needed configuration
+->one command to install the app
+->run app with 2 different versions
+
+before container(application deployment)
