@@ -19,3 +19,4 @@ after containers(application development)
 ->run app with 2 different versions
 
 before container(application deployment)
+->development team will produce artifacts together with a set 
