@@ -19,4 +19,5 @@ after containers(application development)
 ->run app with 2 different versions
 
 before container(application deployment)
-->development team will produce artifacts together with a set 
+->development team will produce artifacts together with a set of how to actually install and configure those artifacts on the server
+->so you would have a jar file or something similar for your application. and in addition you would have 
